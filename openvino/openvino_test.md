@@ -63,8 +63,9 @@ I use the model from this repo, and get the result like the below link show.
 https://imgur.com/B0rFaFu
 
 >#### IR files download link:
->>> https://download.01.org/opencv/2019/open_model_zoo/R1/models_bin/face-detection-retail-0004/FP32/
-you can use wget to download the file:
+https://download.01.org/opencv/2019/open_model_zoo/R1/models_bin/face-detection-retail-0004/FP32/
+
+> you can use wget to download the file:
 ex: wget https://download.01.org/opencv/2019/open_model_zoo/R1/models_bin/face-detection-retail-0004/FP32/face-detection-retail-0004.bin
  
 
