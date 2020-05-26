@@ -55,6 +55,8 @@ https://imgur.com/a/5TRCW8Y
 >#### Refine: 
 cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-march=armv7-a" /opt/intel/openvino/deployment_tools/inference_engine/samples/cpp
 
+---
+
 2. model problem, 
 - face-detection-adas-0001.bin
 - face-detection-adas-0001.xml
