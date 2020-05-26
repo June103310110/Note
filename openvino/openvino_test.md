@@ -1,4 +1,4 @@
-## Pre-work to inference openvino on RPI4B
+# Pre-work to inference openvino on RPI4B
 June, May 2, 2020
 
 #### Update System
@@ -37,7 +37,7 @@ Using TensorFlow backend.
 '4.3.0-openvino'
 ```
 
-## openvino installing refine list
+# openvino installing refine list
 - Ref 
 https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_raspbian.html
 #### Description:
@@ -47,7 +47,7 @@ The tutorial on intel openvino website is good, but there are some mistake. Mayb
 - here is a picture that you can download to test for face-detection or person-detection.
 https://imgur.com/a/5TRCW8Y
 
-## error list (2 error)
+# error list (2 error)
 1. Build the Object Detection Sample:
 >#### Refine: 
 cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-march=armv7-a" /opt/intel/openvino/deployment_tools/inference_engine/samples/cpp
