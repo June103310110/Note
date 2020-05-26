@@ -53,7 +53,7 @@ here is a picture that you can download to test for face-detection or person-det
 >>> Refine: 
 cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-march=armv7-a" /opt/intel/openvino/deployment_tools/inference_engine/samples/cpp
 
-2. (warning) model problem, 
+2. (error) model problem, 
 - face-detection-adas-0001.bin
 - face-detection-adas-0001.xml
 These IR files can't work for me. I will meet a error below(error id: Error_0, you can find the error message in the end of this document). But if I use the other facedetection or person detection model it will be fine.
