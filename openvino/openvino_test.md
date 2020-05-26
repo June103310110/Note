@@ -73,10 +73,10 @@ ex: wget https://download.01.org/opencv/2019/open_model_zoo/R1/models_bin/face-d
 
 Error message list:
 ---
-Error_0 :
-+++
+#### Error_0 :
+```
 terminate called after throwing an instance of 'InferenceEngine::details::InferenceEngineException'
   what():  Check 'input_shape_product.get_length() == shape_size(m_output_shape)' failed at /teamcity/work/scoring_engine_build/releases_2020_2/ngraph/src/ngraph/op/reshape.cpp:100:
 While validating node 'v0::Reshape Reshape_971(PriorBox_744[0]:f32{2,3909705728}) -> (dynamic?)':
 Product of output shape dimensions does not match product of argument shape dimensions (output shape: Shape{1, 2, 3909705728}, argument shape: {2,3909705728}).
-+++
+```
