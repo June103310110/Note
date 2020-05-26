@@ -2,27 +2,30 @@
 June, May 2, 2020
 
 #### Update System
----
+```
 sudo apt update
 sudo apt upgrade
 pip install --upgrade pip
 sudo apt-get install python-pip python-dev
-
+```
 
 #### Sudo install List (Suggest to follow the sequence)
----
+```
 venv of python (venv is okay for me)
 sudo apt install libatlas-base-dev
 sudo apt-get install cython   #需安裝cython才能裝tensorflow，否則會出錯
+```
 
 #### Installed in venv list
 >>> Ref
 https://medium.com/@yanweiliu/raspberry-pi%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%8D%81%E4%BA%8C-%E5%AE%89%E8%A3%9Dtensorflow%E5%92%8Ckeras-cafae0d40770
----
+
+```
 pip install mock
 pip install tensorflow
 pip install keras
 pip install --upgrade opencv_contrib_python (this version is for openvino)
+```
 
 >### if you finish settle the environment, the output of tensorflow, keras and openvc will like the output below:
 ```
