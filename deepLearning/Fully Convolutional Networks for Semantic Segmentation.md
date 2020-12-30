@@ -51,7 +51,7 @@ https://arxiv.org/abs/1411.4038
 - 只保留卷積部分以設計特徵萃取器
     - Spatial pyramid pooling in deep convolutional networks for visual recognition 
     > K. He, X. Zhang, S. Ren, and J. Sun 
-    - 組合目標和 空間金字塔池化 (spatial pyramid poolong)
+    - 組合目標和空間金字塔池化(spatial pyramid poolong)
     - https://arxiv.org/abs/1406.4729
 
 #### 方法
