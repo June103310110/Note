@@ -1,8 +1,12 @@
+[![hackmd-github-sync-badge](https://hackmd.io/HYl7IHH6TumyhD5p9p8u6A/badge)](https://hackmd.io/HYl7IHH6TumyhD5p9p8u6A)
 ###### tags: `AI learning` `Unet ref`
 
 # Fully Convolutional Networks for Semantic Segmentation
 
 https://arxiv.org/abs/1411.4038
+
+## keyword
+#### patial pyramid poolong
 
 #### Submission history
     From: Jonathan Long [view email]
