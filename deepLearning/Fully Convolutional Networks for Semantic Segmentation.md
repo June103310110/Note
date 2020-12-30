@@ -6,7 +6,7 @@
 https://arxiv.org/abs/1411.4038
 
 ## keyword
-#### patial pyramid poolong
+#### 空間金字塔池化 patial pyramid poolong  
 
 #### Submission history
     From: Jonathan Long [view email]
