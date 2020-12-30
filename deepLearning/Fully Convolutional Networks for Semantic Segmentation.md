@@ -6,7 +6,7 @@
 https://arxiv.org/abs/1411.4038
 
 ## keyword
-#### 空間金字塔池化 patial pyramid poolong  
+#### patial pyramid pooling 空間金字塔池化
 
 #### Submission history
     From: Jonathan Long [view email]
@@ -52,10 +52,10 @@ https://arxiv.org/abs/1411.4038
 - semantic segmentation in hybrid proposal-classifier models
     - Rich feature hierarchies for accurate object detection and semantic segmentation
         > R. Girshick, J. Donahue, T. Darrell, and J. Malik
-- 只保留卷積部分以設計特徵萃取器
+- 只保留卷積部分以設計 特徵萃取器
     - Spatial pyramid pooling in deep convolutional networks for visual recognition 
     > K. He, X. Zhang, S. Ren, and J. Sun 
-    - 組合目標和 空間金字塔池化 (spatial pyramid poolong)
+    - 組合目標與 空間金字塔池化 (spatial pyramid poolong)
     - https://arxiv.org/abs/1406.4729
 
 #### 方法
